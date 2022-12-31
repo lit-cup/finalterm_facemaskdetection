@@ -13,5 +13,5 @@
 - [Face Mask Detection Database](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
 - [FaceMaskDetection - PyTorch - Faster R-CNN](https://www.kaggle.com/code/franciscop9/facemaskdetection-pytorch-faster-r-cnn)
 
-[1]: 
-[2]:
+[1]: https://github.com/lit-cup/finalterm_facemaskdetection/blob/main/Train%20set.png
+[2]: https://github.com/lit-cup/finalterm_facemaskdetection/blob/main/result.png
