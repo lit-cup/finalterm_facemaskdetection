@@ -1,2 +1,2 @@
-# finalterm_facemaskdetection
-for the finalterm report
+# NHU Finalterm FaceMaskDetection Practice on GitHub Reference kaggle  
+
