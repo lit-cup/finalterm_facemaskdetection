@@ -5,10 +5,10 @@
 - 參考的Face Mask Detection Database
 - 使用的範例FaceMaskDetection - PyTorch - Faster R-CNN
 # 結果
-隨機從Database中挑選出的圖片作為訓練集
+隨機從Database中挑選出的圖片作為訓練集 
 ![Train set][1]
 
-紅框為訓練完成的結果
+紅框為訓練完成的結果 
 ![result][2]
 # 參考來源
 - [Face Mask Detection Database](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
