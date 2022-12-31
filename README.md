@@ -1,4 +1,4 @@
-# Finalterm Face Mask Detection Practice Reference kaggle  
+# Finalterm Face Mask Detection Practice Reference Kaggle  
 使用Kaggle上的範例進行口罩辨識程式碼練習
 # 使用的工具
 - Google Colab進行編譯
