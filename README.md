@@ -3,5 +3,5 @@
 # 使用的工具
 - Google Colab進行編譯
 - 參考的FaceMaskDectectino Database
-- 使用的範例 [FaceMaskDetection - PyTorch - Faster R-CNN]([https://github.com/lit-cup/finalterm_facemaskdetection/blob/main/facemaskdetection.ipynb](https://www.kaggle.com/code/franciscop9/facemaskdetection-pytorch-faster-r-cnn)
+- 使用的範例 [FaceMaskDetection - PyTorch - Faster R-CNN](https://www.kaggle.com/code/franciscop9/facemaskdetection-pytorch-faster-r-cnn)
 # 結果
