@@ -9,7 +9,7 @@
 
 ![Train set][1]
 
-紅框為訓練完成的結果 
+紅框為使用Faster R-CNN訓練完成的結果 
 
 ![result][2]
 # 參考來源
